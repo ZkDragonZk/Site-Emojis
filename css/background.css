@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    background-image: url(../img/star.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center
+}
+p.textinho {
+    color: white;
+    margin-top: 80vh;
+    align-content: center;
+    text-align: center;
+}
